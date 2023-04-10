@@ -1,0 +1,45 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Leisure Formal'
+theme = 'smol'
+copyright = "0xmic"
+
+paginate=5 # articles per page
+
+[params]
+mode="dark" # color-mode → light, dark, toggle or auto
+useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+dateFmt = "2006-01-02 3:04PM"
+
+# Social Tags
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.0xmic"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/0xmic"
+
+# Main menu Items
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+# Footer
+[[menu.footer]]
+name = "Github"
+url = "https://github.com/0xmic"
+weight = 1
+
+[[menu.footer]]
+name = "Twitter"
+url = "https://twitter.com/0xmic"
+weight = 2
