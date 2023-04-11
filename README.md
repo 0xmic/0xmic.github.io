@@ -1,6 +1,6 @@
 ## License
 
-All the original content (posts and pages) is Copyright Michael L.
+All the original content (posts and pages) is Copyright 0xmic.
 
 All other directories and files are MIT Licensed.
 
