@@ -1,2 +1,4 @@
+.DS_Store
+
 # Hugo specific
 .hugo_build.lock
